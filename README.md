@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohhhiitt
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning ai and machine 
+- 🌱 I’m currently learning cloud computing 
 - 💞️ I’m looking to collaborate on git hub
 - 📫 How to reach me, go to my linkedin www.linkedin.com/in/mohit-jaiswal-b19770286
 
